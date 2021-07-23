@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>hello!jiyoung.</title>
   <style>
    h1 {
      border: 10px; color:lightsalmon;
