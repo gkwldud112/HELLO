@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-   h1 {
-     border: 10px; color:lightsalmon;
-     padding: 20px; 
-   }
+
 
   </style>
 <meta charse="utf-8">
